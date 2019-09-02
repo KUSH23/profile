@@ -1,3 +1,3 @@
 # profile
 
-Live at https://KUSH23.github.io/profile/
+Live at https://kush23.github.io/profile/
