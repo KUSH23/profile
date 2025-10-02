@@ -1,0 +1,30 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="560" rx="32" fill="url(#paint0_radial)"/>
+<g opacity="0.4">
+<path d="M120 160H780" stroke="white" stroke-opacity="0.12" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 16"/>
+<path d="M120 240H780" stroke="white" stroke-opacity="0.12" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 16"/>
+<path d="M120 320H780" stroke="white" stroke-opacity="0.12" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 16"/>
+<path d="M120 400H780" stroke="white" stroke-opacity="0.12" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 16"/>
+</g>
+<rect x="148" y="132" width="184" height="252" rx="20" fill="rgba(15,17,21,0.45)" stroke="rgba(255,255,255,0.08)"/>
+<rect x="172" y="168" width="136" height="8" rx="4" fill="white" opacity="0.36"/>
+<rect x="172" y="204" width="112" height="8" rx="4" fill="white" opacity="0.2"/>
+<rect x="172" y="240" width="88" height="8" rx="4" fill="white" opacity="0.2"/>
+<rect x="172" y="276" width="120" height="8" rx="4" fill="white" opacity="0.2"/>
+<rect x="172" y="312" width="94" height="8" rx="4" fill="white" opacity="0.2"/>
+<rect x="359" y="132" width="394" height="180" rx="20" fill="rgba(15,17,21,0.45)" stroke="rgba(255,255,255,0.08)"/>
+<path d="M393 276L458 220L522 248L586 196L650 228L686 200" stroke="#9CC2FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M393 306L458 300L522 310L586 276L650 320L686 290" stroke="#5B8DEF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+<rect x="359" y="330" width="394" height="88" rx="20" fill="rgba(15,17,21,0.65)" stroke="rgba(255,255,255,0.08)"/>
+<rect x="388" y="358" width="122" height="12" rx="6" fill="#9CC2FF" opacity="0.6"/>
+<rect x="388" y="384" width="198" height="12" rx="6" fill="white" opacity="0.36"/>
+<rect x="600" y="358" width="122" height="12" rx="6" fill="#5B8DEF" opacity="0.7"/>
+<rect x="600" y="384" width="86" height="12" rx="6" fill="white" opacity="0.36"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 120) rotate(21.2) scale(902 602)">
+<stop stop-color="#1D2541"/>
+<stop offset="0.55" stop-color="#151924"/>
+<stop offset="1" stop-color="#10131A"/>
+</radialGradient>
+</defs>
+</svg>
